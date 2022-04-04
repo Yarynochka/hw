@@ -1,0 +1,50 @@
+body, html{
+    margin: 0px;
+}
+
+.wrap{
+
+    background: rgba(236, 236, 116, 0.73);
+    display: flex;
+    /*justify-content: space-around;*/
+
+    flex-wrap: wrap;
+}
+.boxes{
+    width: 500px;
+    margin-right:calc(16.6%- 250px);
+    margin-left:calc(16.6%- 250px);
+}
+
+
+
+
+
+
+
+img{
+    height: 400px;
+    width: 350px;
+}
+h1{
+    background-color: aliceblue;
+    color: blue;
+    font-family: "Times New Roman"; font-size:xxx-large;
+}
+
+h2{
+    background-color: bisque;
+    color: darkblue;
+    font-family: "Times New Roman";
+}
+p{
+    text-align: justify;
+    font-family: "Times New Roman";
+    background-color: rgba(234, 234, 234, 0.39);
+    color: darkgreen;
+}
+
+ul{
+    color: darkred;
+}
+
